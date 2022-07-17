@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cloudyday5
+- 👋 Hi
 - 🌱 I’m currently learning JavaScript
 
 
