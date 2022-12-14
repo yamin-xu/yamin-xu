@@ -1,5 +1,5 @@
 - 👋 Hi
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript & Ruby
 
 
 <!---
